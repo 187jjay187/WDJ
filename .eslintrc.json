@@ -16,6 +16,7 @@
     "plugins": ["react"],
     "rules": {
       "react/jsx-filename-extension": ["warn", { "extensions": [".js", ".jsx"] }],
+      "import/extensions": ["error", "never"],
       "max-len": ["error", { "code": 380 }],
       "react/react-in-jsx-scope": "off",
       "import/no-unresolved": "off",
