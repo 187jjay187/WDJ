@@ -5,15 +5,15 @@ import {
   Routes,
   Navigate,
 } from 'react-router-dom';
-import Preloader from './components/Pre';
-import Navbar from './components/Navbar';
-import Home from './components/Home/Home';
-import About from './components/About/About';
-import Projects from './components/Projects/Projects';
-import Footer from './components/Footer';
+import Preloader from './Components/Pre';
+import Navbar from './Components/Navbar';
+import Home from './Components/Home/Home';
+import About from './Components/About/About';
+import Projects from './Components/Projects/Projects';
+import Footer from './Components/Footer';
 import Resume from './Components/Resume/ResumeNew';
 // import DesignResumeNew from './components/Designresume/DesignResumeNew';
-import ScrollToTop from './components/ScrollToTop';
+import ScrollToTop from './Components/ScrollToTop';
 import './style.css';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
