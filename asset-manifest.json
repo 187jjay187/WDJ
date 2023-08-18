@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/WDJ/static/css/main.a7f7cf0a.css",
+    "main.js": "/WDJ/static/js/main.30126ff9.js",
+    "static/js/496.1811ca5a.chunk.js": "/WDJ/static/js/496.1811ca5a.chunk.js",
+    "static/media/Zehavacreations myshopify theme mock up.png": "/WDJ/static/media/Zehavacreations myshopify theme mock up.7a307b5a4f29308076e9.png",
+    "static/media/Woodlanefurniture-myshopify-theme-mock-up.png": "/WDJ/static/media/Woodlanefurniture-myshopify-theme-mock-up.c0ca791fd9b09290d1fe.png",
+    "static/media/MB420 myshopify theme mock up.png": "/WDJ/static/media/MB420 myshopify theme mock up.3f8359a39f30973de7f0.png",
+    "static/media/Jerome G. O. Resume.pdf": "/WDJ/static/media/Jerome G. O. Resume.2f9b2bf3dd8e3db43185.pdf",
+    "static/media/Dev News mock up.png": "/WDJ/static/media/Dev News mock up.b7e6677b7cbea4eabf8b.png",
+    "static/media/2016-06-30_06.19_1-removebg-icons2.png": "/WDJ/static/media/2016-06-30_06.19_1-removebg-icons2.1288775737a1033557ad.png",
+    "static/media/dailyplanner.png": "/WDJ/static/media/dailyplanner.4e1850f399e8a3a0a90e.png",
+    "static/media/Bookstore CRM mock up.png": "/WDJ/static/media/Bookstore CRM mock up.050033e230eadd1ff481.png",
+    "static/media/about.png": "/WDJ/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/avatar.svg": "/WDJ/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/WDJ/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/WDJ/index.html",
+    "main.a7f7cf0a.css.map": "/WDJ/static/css/main.a7f7cf0a.css.map",
+    "main.30126ff9.js.map": "/WDJ/static/js/main.30126ff9.js.map",
+    "496.1811ca5a.chunk.js.map": "/WDJ/static/js/496.1811ca5a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7f7cf0a.css",
+    "static/js/main.30126ff9.js"
+  ]
+}
