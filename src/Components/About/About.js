@@ -6,6 +6,7 @@ import Aboutcard from './AboutCard';
 import laptopImg from '../../Assets/about.png';
 import Toolstack from './Toolstack';
 import FrameworkTechStack from './Frameworkstack';
+import Cloudstackk from './Cloudstack';
 
 function About() {
   return (
@@ -58,6 +59,14 @@ function About() {
           I use
         </h1>
         <Toolstack />
+
+        <h1 className="project-heading">
+          Cloud
+          <strong className="purple"> Stack</strong>
+          {' '}
+          I use
+        </h1>
+        <Cloudstackk />
 
         <Github />
       </Container>
