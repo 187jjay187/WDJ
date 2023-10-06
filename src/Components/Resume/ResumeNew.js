@@ -3,7 +3,7 @@ import { Container, Row } from 'react-bootstrap';
 import Button from 'react-bootstrap/Button';
 import { AiOutlineDownload } from 'react-icons/ai';
 import { Document, Page, pdfjs } from 'react-pdf';
-import pdf from '../../Assets/Jerome Osman Full-Stack Developer Resume CV.pdf';
+import pdf from '../../Assets/Jerome Osman Full-Stack Developer Resume.pdf';
 import 'react-pdf/dist/esm/Page/AnnotationLayer.css';
 
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
