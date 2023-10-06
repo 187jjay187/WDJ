@@ -715,6 +715,10 @@ button:focus {
 
 .resume {
   padding-top: 50px;
+  justify-content: center;
+}
+
+.resume-2 {
   padding-bottom: 50px;
   justify-content: center;
 }
